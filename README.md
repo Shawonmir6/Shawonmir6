@@ -2,12 +2,12 @@
 #### Penetration Tester | Ethical Hacker | Cyber Security Specialist
 ![Penetration Tester | Ethical Hacker | Cyber Security Specialist](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/296237932_183739840724225_8068491221311118059_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEEdNflHceGSV7w1F_zemUYMoDmK4QOnj4ygOYrhA6ePh7yjQDSoBC2IFVEJJDWhWrqCZOeXHIGnOj7FS7o-D19&_nc_ohc=jQXYbAzhCK8AX_x1MlG&_nc_ht=scontent.fdac24-1.fna&oh=00_AfCINBLoUjCsRla5Ftz0u4t3WFi0N4NOXLtZUZ9Pu3uBPA&oe=641F59AC)
 
-I am a Security Professional and Entrepreneur. A self-motivated and organized with more than 5+ years of experience in Cyber Security, Information Security, Vulnerability Testing  and web application Security Testing . I am very passionate and dedicated to my work. I have acquired the skills and knowledge necessary to make your project a success . I enjoy every step of the working process, from discussion and collaboration.
-I'm an instructor  and I already trained 1500+ successful students to develop careers in Information Security and Cyber security.
+I am a Security Professional and Entrepreneur. A self-motivated and organized professional with more than 5+ years of experience in Cyber Security, Information Security, Vulnerability Testing  and web application Security Testing . I am very passionate and dedicated to my work. I have acquired the skills and knowledge necessary to ensure your project's success. I enjoy every step of the working process, from discussion and collaboration.
+I'm an instructor  and I have already trained 1500+ successful students to develop careers in Information Security and Cybersecurity.
 
-Skills: Kali Linux, Wep pen testing ,etc
+Skills: Kali Linux, Wep pen testing, etc
 
-- 🔭 I’m currently working on Fiverr,Upwork,LinkedIn 
+- 🔭 I’m currently working on Fiverr, Upwork, LinkedIn 
 - 🌱 I’m currently learning java 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Ethical Hacking or Pen Testing 
